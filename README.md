@@ -24,7 +24,6 @@ A RESTful User Management API built with **Spring Boot**, designed for CRUD oper
 - Spring Data JPA
 - Spring Validation
 - MySQL Database (default)
-- Lombok
 - Swagger UI (`springdoc-openapi`)
 
 ---
